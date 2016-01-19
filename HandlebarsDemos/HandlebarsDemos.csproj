@@ -63,6 +63,7 @@
     <Content Include="Exercise2\handlebarstut2.html" />
     <Content Include="Exercise4\handlebarstut4.html" />
     <Content Include="Exercise5\handlebarstut5.html" />
+    <Content Include="Exercise6\handlebarstut6.html" />
     <Content Include="Scripts\handlebars-v4.0.5.js" />
     <Content Include="Web.config" />
   </ItemGroup>
